@@ -1,0 +1,6 @@
+ip-country-info
+===============
+
+Query IPInfoDB for geolocation info on inputed IP using NASM/GTK+/cURL.  
+Displays country flag from local directory.  Flags must be png format in sub directory from exe and names to be in ISO format.  Can download
+from GoSquared (http://www.gosquared.com/)
